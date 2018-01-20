@@ -2,20 +2,34 @@
 
 Để tránh việc bị Kick, Ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng đọc kỹ nội quy trước khi tham gia nhóm.
 
-### NỘI QUY VỀ TÀI KHOẢN
+### NỘI QUY VỀ TÀI KHOẢN : 
 
 Những tài khoản có dạng như sau sẽ KHÔNG được phép tham gia nhóm:
 
 ```
 1.Vừa tham gia Facebook được 1-3 ngày.
+2.Không có ảnh đại diện (sử dụng ảnh mặc định của Facebook).
+3.Cố tình sử dụng ảnh đại diện giống MOD gây nhầm lẫn cho thành viên khác.
+4.Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
+5.Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
+6.Nắc cơ và chat teencode
+```
+### NỘI QUY VỀ BÀI VIẾT : 
+```
+1.Sử dụng tiếng Việt, có dấu, tránh viết tắt. KHÔNG được sử dụng teen-code. KHÔNG sử dụng các từ ngữ tục tĩu, khiếm nhã, thiếu văn hóa.
+2.KHÔNG đăng bài viết quảng cáo (rao vặt, bán sim,…).
+3.KHÔNG đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
+4.Bài viết mang tính chất PR cho nhóm, page để câu kéo thành viên.
+5.Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
+```
+### VỀ HASTAG : 
+
+ Danh sách Hastag
+ 
+```
+Ảnh, video hoặc nội dung giải trí : #dumucer_fun.
+Thảo luận về một vấn đề : #dumucer_dis.
+Bóc phốt thành viên hoặc vấn đề nào đó : #dumucer_rp.
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pewcry/ranking/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
