@@ -1,7 +1,7 @@
 # NỘI QUY NHÓM DUMUCER
 ```
 Dưới đây là những quy định chung khi bạn tham gia nhóm Dumucer.
-Hãy chắc rằng bạn đã đọc hết những nội dung dưới đây.
+Hãy chắc rằng bạn đã đọc hết những nội dung dưới đây..
 ```
 ## NỘI QUY VỀ TÀI KHOẢN
 #### Những tài khoản có dạng như sau sẽ không được phép tham gia nhóm :
