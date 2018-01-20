@@ -1,0 +1,2 @@
+# rule
+Rule of Dumucer
