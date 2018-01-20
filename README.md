@@ -12,7 +12,7 @@ Hãy chắc rằng bạn đã đọc hết những nội dung dưới đây.
 
 3 . Cố tình sử dụng ảnh đại diện giống BQT gây nhầm lẫn cho thành viên khác.
 
-4 . Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
+4 . Tài khoản có dấu hiệu là nick ảo, không hoạt động.
 
 5 . Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 ```
