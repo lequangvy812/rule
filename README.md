@@ -35,12 +35,12 @@ Like Comment : +0.2 Pew Point
 
 Số Like nhận được trong bài viết của bạn bằng số Pew Point
 ## LIÊN KẾT
-Discord (https://discordapp.com/invite/jqZGTH)
+Discord ( https://discordapp.com/invite/jqZGTH )
 
-Group (https://www.facebook.com/groups/PewnoyDumucer/)
+Group ( https://www.facebook.com/groups/PewnoyDumucer/ )
 
-PewPew Youtube (https://www.youtube.com/channel/UCsaMa3VD1I9G952DDlOX7aw)
+PewPew Youtube ( https://www.youtube.com/channel/UCsaMa3VD1I9G952DDlOX7aw )
 
-Fanpage Pewnoys (https://www.facebook.com/PewnoysCfs/)
+Fanpage Pewnoys ( https://www.facebook.com/PewnoysCfs/ )
 
-Ranking (https://www.pewrank.xyz)
+Ranking ( https://www.pewrank.xyz )
